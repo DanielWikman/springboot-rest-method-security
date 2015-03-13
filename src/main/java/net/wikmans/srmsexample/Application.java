@@ -7,6 +7,9 @@ package net.wikmans.srmsexample;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+// Diff
+//@ComponentScan
+//@EnableAutoConfiguration
 @SpringBootApplication
 public class Application {
 
