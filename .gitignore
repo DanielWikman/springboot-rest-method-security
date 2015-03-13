@@ -1,0 +1,18 @@
+# Intellij
+.idea
+*.iml
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+log/
+target/
+
+# Gradle
+.gradletasknamecache
+.gradle/
+build/
